@@ -1,3 +1,5 @@
+JUEGO GATO VS RATÓN CON MINIMAX
+
 ¿Qué creé?
 Es un juego sencillo de persecución gato/ratón en python. Cuenta con dos personajes: gato y ratón, consiste en que el 
 gato debe de atraparle al ratón en menos de 15 movimientos, si este no consigue atraparlo el ratón gana. El gato cuenta con minimax 
